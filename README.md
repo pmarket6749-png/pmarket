@@ -8,7 +8,7 @@
 -  Связаться: @Jsuehj
 
 ## 🛠 Стек
-![С#](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![С#]([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/C-Sharp_Logo.svg/1280px-C-Sharp_Logo.svg.png?utm_source=ru.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail))
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## 📊 GitHub Stats
