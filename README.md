@@ -1,21 +1,51 @@
- Привет, я Соня
-  Веб-разработчик
+### Привет, я Соня 🌸
+#### Веб-разработчик
 
-![Typing SVG](<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=5001&pause=1000&color=22ABF7&background=53FFAD00&width=435&lines=%D0%A3%D1%87%D1%83%D1%81%D1%8C+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B5+%D0%B8%D0%B3%D1%80" alt="Typing SVG" /></a>)
+<p align="center">
+  <b>Учусь разработке игр</b>
+</p>
 
--  Сейчас делаю небольшую мобильную игру
--  Учу c#
--  Связаться: @Jsuehj
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Web+Developer;Game+Dev+Student;C%23+Enthusiast" alt="Typing SVG" />
+</p>
 
-## 🛠 Стек
-![С#]([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/C-Sharp_Logo.svg/1280px-C-Sharp_Logo.svg.png?utm_source=ru.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail))
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+* 🎀 Сейчас делаю небольшую мобильную игру
+* 🎧 Учу C#
+* 💌 Связаться: [@твой_телеграм](https://t.me/твой_телеграм) | [Email](mailto:твой@email.com)
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+---
 
-## 🚀 Проекты
+### 🧰 Стек
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radical&hide_border=true" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 🗂️ Проекты
+
 | Проект | Стек | Ссылка |
-|---|---|---|
-| Todo App | React, TS | ... |
+| :--- | :--- | :--- |
+| **Todo App** | Web | [...] |
+| **Game Project** | C#, Unity | [...] |
+
+---
+
+<p align="center">
+  <i>Спасибо за визит! Не забудь поставить звездочку ⭐️</i>
+</p>
