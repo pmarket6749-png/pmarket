@@ -1,4 +1,5 @@
 <img width="896" height="1195" alt="Gemini_Generated_Image_no9dugno9dugno9d" src="https://github.com/user-attachments/assets/06eadb36-4486-4f7a-af1e-47302e10be9f" />
+![snake](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg)
 ### Привет, я Соня 🌸
 #### Веб-разработчик
 
