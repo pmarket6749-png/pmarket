@@ -1,6 +1,5 @@
-file:///home/kab303/%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/Gemini_Generated_Image_no9dugno9dugno9d.jpeg
 
-![snake](https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg)
+![snake](https://raw.githubusercontent.com/pmarket/pmarket/output/github-snake.svg)
 ### Привет, я Соня 🌸
 #### Веб-разработчик
 
